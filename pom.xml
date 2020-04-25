@@ -46,5 +46,8 @@
 		<module>PaymentApi</module>
 		<module>Scheduler</module>
 		<module>Security</module>
+		<module>ServerEureka</module>
+		<module>ZuulServer</module>
+		<module>CoreProduct</module>
 	</modules>
 </project>

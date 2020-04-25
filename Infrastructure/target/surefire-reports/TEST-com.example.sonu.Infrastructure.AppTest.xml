@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.sonu.Infrastructure.AppTest" time="0.016" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.sonu.Infrastructure.AppTest" time="0.013" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\HOME\AppData\Local\Temp\surefire1294396718922656559\surefirebooter3810478178459713394.jar C:\Users\HOME\AppData\Local\Temp\surefire1294396718922656559 2020-04-24T18-57-33_468-jvmRun1 surefire6624540771827340634tmp surefire_96605044042242761391tmp"/>
+    <property name="sun.java.command" value="C:\Users\HOME\AppData\Local\Temp\surefire1440418351496522619\surefirebooter1062480497903519530.jar C:\Users\HOME\AppData\Local\Temp\surefire1440418351496522619 2020-04-25T11-25-48_706-jvmRun1 surefire5572942422025747599tmp surefire_94795207328096569231tmp"/>
     <property name="surefire.test.class.path" value="D:\SPRINGBOOTPROJECT\Sonu_Workspace\Parent\Infrastructure\target\test-classes;D:\SPRINGBOOTPROJECT\Sonu_Workspace\Parent\Infrastructure\target\classes;C:\Users\HOME\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\HOME"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\HOME\AppData\Local\Temp\surefire1294396718922656559\surefirebooter3810478178459713394.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\HOME\AppData\Local\Temp\surefire1440418351496522619\surefirebooter1062480497903519530.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.sonu.Infrastructure.AppTest" time="0.002"/>
+  <testcase name="testApp" classname="com.example.sonu.Infrastructure.AppTest" time="0"/>
 </testsuite>
